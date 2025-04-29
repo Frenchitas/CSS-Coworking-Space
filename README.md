@@ -5,7 +5,7 @@ It features a responsive **header** and **hero section** for a coworking space w
 
 ## 🖥 Preview
 
-![Project preview](src/images/CoworkingSpace.png)
+![Project preview](./src/images/CoworkingSpace.png)
 
 > The preview image shows the final version of the layout. It includes a styled header with navigation and a modern hero section.
 
