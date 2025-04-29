@@ -1,7 +1,7 @@
 # CSS Coworking Space
 
 This is a frontend project built with HTML, CSS (using Sass), and Vite.  
-It features a responsive **header** and **hero section** for a coworking space website.
+It features a **header** and **hero section** for a coworking space website.
 
 ## 🖥 Preview
 
